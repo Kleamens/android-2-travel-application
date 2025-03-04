@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">project</string>
+    <string name="quitra">Quitra</string>
+    <string name="something_went_wrong">Něco se pokazilo</string>
+    <string name="add">Přidat</string>
+    <string name="stats">Statistiky</string>
+    <string name="search">Vyhledat</string>
+    <string name="edit">Upravit</string>
+    <string name="name">Název</string>
+    <string name="description">Popis</string>
+    <string name="update">Aktualizovat</string>
+    <string name="view">Zobrazit</string>
+    <string name="add_toggle">Přidat</string>
+    <string name="translation">Překlad</string>
+    <string name="translate">Přeložit</string>
+    <string name="take_a_photo">Vyfototit</string>
+    <string name="text">Text</string>
+    <string name="theme">Téma</string>
+    <string name="location_name">Název lokace</string>
+    <string name="location_description_optional">Popis lokace (nepovinné)</string>
+    <string name="create">Vytvořit</string>
+    <string name="no_locations_found">Nebyly nalezeny žádné lokace</string>
+    <string name="camera_permission_denied">Povolení k použití kamery zamítnuto</string>
+</resources>
